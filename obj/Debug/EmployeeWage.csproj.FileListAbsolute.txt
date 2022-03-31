@@ -1,0 +1,8 @@
+C:\Users\ranep\Desktop\.net\EmployeeWage\bin\Debug\EmployeeWage.exe.config
+C:\Users\ranep\Desktop\.net\EmployeeWage\bin\Debug\EmployeeWage.exe
+C:\Users\ranep\Desktop\.net\EmployeeWage\bin\Debug\EmployeeWage.pdb
+C:\Users\ranep\Desktop\.net\EmployeeWage\obj\Debug\EmployeeWage.csproj.AssemblyReference.cache
+C:\Users\ranep\Desktop\.net\EmployeeWage\obj\Debug\EmployeeWage.csproj.SuggestedBindingRedirects.cache
+C:\Users\ranep\Desktop\.net\EmployeeWage\obj\Debug\EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\ranep\Desktop\.net\EmployeeWage\obj\Debug\EmployeeWage.exe
+C:\Users\ranep\Desktop\.net\EmployeeWage\obj\Debug\EmployeeWage.pdb
